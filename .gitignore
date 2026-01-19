@@ -22,3 +22,15 @@ build
 
 # Temporary files
 *.temp
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor/IDE
+.claude/
+.vscode/
+.idea/
+
+# UV lock file
+uv.lock
